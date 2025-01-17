@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **aroradev198@gmail.com**
+-  👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dev-arora-919050316/](https://www.linkedin.com/in/dev-arora-919050316/)
 
 - ⚡ Fun fact **I am funny**
 
