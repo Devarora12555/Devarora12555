@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 
 <!--
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/Devarora12555/Devarora12555/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20-%20Copy.png)
 <h1 align="center">Hi 👋, I'm Dev Arora</h1>
 <h3 align="center">A passionate software enginner from India</h3>
 <img align = "right" alt = "coding" width = "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
